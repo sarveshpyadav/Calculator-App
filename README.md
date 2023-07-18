@@ -18,3 +18,7 @@
 
 
 Thank you for taking the time to explore my project description. I extend my heartfelt thanks for your interest and look forward to any contributions or feedback you may have!
+
+#
+>**_NOTE :_** I have built this project while learning and practicing JavaScript. Thus, the project might throw errors at some cases.
+>
